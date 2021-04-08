@@ -1,0 +1,21 @@
+.listContainer > li {
+  border: 1px solid whitesmoke;
+  background: #242f3a;
+  color: whitesmoke;
+  font-weight: 600;
+}
+.listContainer > li > div > p {
+  color: #948989;
+  font-weight: 600;
+}
+
+button > span {
+  color: whitesmoke;
+  font-weight: 600;
+}
+.MuiButton-containedPrimary {
+  margin-right: 10px;
+}
+.listContainer > li > button {
+  margin-right: 10px !important;
+}
